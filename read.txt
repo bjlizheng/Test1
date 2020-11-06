@@ -6,3 +6,6 @@ Git has amutable index called stage.
 Git 管理修改
 
 这是dev分支 branch
+
+
+创建一个新分支is quick AND simple
